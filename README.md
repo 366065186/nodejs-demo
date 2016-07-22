@@ -5,3 +5,4 @@ nodejs 练习的 demo
 每个部分的代码都有文字讲解，请往下看
 
 create_app：http://blog.pkcms.cn/category/script/nodsjs/
+school: http://blog.pkcms.cn/nodejs-base-modules-require/
