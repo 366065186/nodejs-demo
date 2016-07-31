@@ -9,3 +9,5 @@ create_app：http://blog.pkcms.cn/category/script/nodsjs/
 school: http://blog.pkcms.cn/nodejs-base-modules-require/
 
 HTTP/crawler： http://blog.pkcms.cn/nodejshtp-api-http-crawler/ 
+
+events： http://blog.pkcms.cn/nodejs-base-eventemitter/ 
