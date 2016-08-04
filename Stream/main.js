@@ -1,6 +1,4 @@
 var fs = require('fs');
-// 压缩依赖
-var zlib = require('zlib');
 
 // 创建可读流
 var read_data = '';
@@ -38,8 +36,5 @@ writerStream.on('error', function(err){
 var conduitStream_reader = fs.createReadStream('./input.txt');
 var conduitStream_writer = fs.createWriteStream('./output2.txt');
 conduitStream_reader.pipe(conduitStream_writer);
-
-// 压缩文件 input.txt 为 input.txt.gz
-fs.createReadStream('./input.txt').pipe(zlib.createGzip()).pipe(fs.createWriteStream('./input.txt.gz'));
 
 console.log('程序执行完毕');
