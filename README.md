@@ -11,3 +11,5 @@ school: http://blog.pkcms.cn/nodejs-base-modules-require/
 HTTP/crawler： http://blog.pkcms.cn/nodejshtp-api-http-crawler/ 
 
 events： http://blog.pkcms.cn/nodejs-base-eventemitter/ 
+
+Stream：http://blog.pkcms.cn/nodejs-base-stream/
