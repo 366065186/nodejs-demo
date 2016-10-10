@@ -13,3 +13,5 @@ HTTP/crawler： http://blog.pkcms.cn/nodejshtp-api-http-crawler/
 events： http://blog.pkcms.cn/nodejs-base-eventemitter/ 
 
 Stream：http://blog.pkcms.cn/nodejs-base-stream/
+
+util：http://blog.pkcms.cn/nodejs-base-util/
